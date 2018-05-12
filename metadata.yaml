@@ -1,0 +1,47 @@
+_repo: Rab-and-His-Friends-and-Other-Papers_45929
+_version: 0.1.0
+contributor:
+  illustrators:
+  - agent_name: Shepherd, Jessie Curtis
+    alias: Curtis, Jessie
+    birthdate: 1842
+    deathdate: 1907
+    gutenberg_agent_id: '43363'
+    url: http://www.gutenberg.org/2009/agents/43363
+  - agent_name: McCullough, W. A. (William A.)
+    alias: McCullough, William A.
+    gutenberg_agent_id: '41315'
+    url: http://www.gutenberg.org/2009/agents/41315
+covers:
+- cover_type: archival
+  image_path: 45929-h/images/cover.jpg
+creator:
+  author:
+    agent_name: Brown, John
+    birthdate: 1810
+    deathdate: 1882
+    gutenberg_agent_id: '1792'
+    url: http://www.gutenberg.org/2009/agents/1792
+    wikipedia: http://en.wikipedia.org/wiki/John_Brown_%28physician%29
+description: ''
+gutenberg_issued: '2014-06-10'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '45929'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Authors, English -- 19th century -- Biography'
+- !lcsh 'Brown, John, 1810-1882 -- Childhood and youth'
+- !lcsh 'Art criticism'
+- !lcsh 'Dogs -- Folklore'
+- !lcc 'PR'
+- !lcsh 'English essays'
+tableOfContents: Rab and his friends -- Her last half-crown -- Our dogs -- Queen Mary's
+  child-garden -- 'Atxinoia -- Letter to John Cairns -- Dr. Chalmers -- Dr. George
+  Wilson -- Notes on art -- "Oh, I'm wat, wat." -- Education through the senses --
+  The black dwarf's bones -- Horae subecivae -- Arthur H. Hallam.
+title: Horae subsecivae. Rab and His Friends, and Other Papers
+url: http://www.gutenberg.org/ebooks/45929
